@@ -11,7 +11,7 @@ owner of this repo :- [AYUSH](https://github.com/ayushteke)
 
 contact me :- [AYUSH](https://t.me/request_ayush)
 
-# Slam Mirror Bsot
+# Slam Mirrors Bsot
 This is a telegram bot writens in python for mirrsoring files on the internet to our beloved Google Drive.
 
 ## Deploying on Heroku
