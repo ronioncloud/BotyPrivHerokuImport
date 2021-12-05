@@ -5,7 +5,7 @@ owner of this repo :- [AYUSH](https://github.com/ayushteke)
 
 # all the commits are made from [slam-mirrorbot](https://github.com/SlamDevs/slam-mirrorbot)
 
-## all the credit goesss to s[slamDevs](https://github.com/SlamDevs)
+## all the credit goessss to s[slamDevs](https://github.com/SlamDevs)
 
 
 
