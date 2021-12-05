@@ -18,7 +18,7 @@ This is a telegram bot writens in python for mirrsoring files on the internet to
 Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks
 
 
-after this click on the below button 👇👇👇👇
+after this click on thse below button 👇👇👇👇
 <p><a href="https://github.com/ayushteke/Torrent_2_Gdrive_mirrorbot/blob/master/heroku-guide.md"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p> 
 
 
